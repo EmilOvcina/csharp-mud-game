@@ -1,0 +1,15 @@
+/Users/emilovcina/Documents/projects/c#/mud-game/bin/Debug/net7.0/mud-game
+/Users/emilovcina/Documents/projects/c#/mud-game/bin/Debug/net7.0/mud-game.deps.json
+/Users/emilovcina/Documents/projects/c#/mud-game/bin/Debug/net7.0/mud-game.runtimeconfig.json
+/Users/emilovcina/Documents/projects/c#/mud-game/bin/Debug/net7.0/mud-game.dll
+/Users/emilovcina/Documents/projects/c#/mud-game/bin/Debug/net7.0/mud-game.pdb
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.csproj.AssemblyReference.cache
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.AssemblyInfoInputs.cache
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.AssemblyInfo.cs
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.csproj.CoreCompileInputs.cache
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.dll
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/refint/mud-game.dll
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.pdb
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/mud-game.genruntimeconfig.cache
+/Users/emilovcina/Documents/projects/c#/mud-game/obj/Debug/net7.0/ref/mud-game.dll
